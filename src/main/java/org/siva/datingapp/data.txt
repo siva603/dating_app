@@ -1,0 +1,1006 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/1.jpg",
+    "phone": 9876543210,
+    "password": "hashed_pw_1",
+    "gender": "FEMALE",
+    "age": 28,
+    "intrests": ["Reading", "Traveling", "Music"]
+  },
+  {
+    "name": "Benjamin Smith",
+    "email": "ben.smith@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/2.jpg",
+    "phone": 9876543211,
+    "password": "hashed_pw_2",
+    "gender": "MALE",
+    "age": 35,
+    "intrests": ["Cycling", "Photography", "Cooking"]
+  },
+  {
+    "name": "Clara Williams",
+    "email": "clara.williams@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/3.jpg",
+    "phone": 9876543212,
+    "password": "hashed_pw_3",
+    "gender": "FEMALE",
+    "age": 26,
+    "intrests": ["Yoga", "Painting", "Hiking"]
+  },
+  {
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/4.jpg",
+    "phone": 9876543213,
+    "password": "hashed_pw_4",
+    "gender": "MALE",
+    "age": 42,
+    "intrests": ["Gardening", "Golf", "Technology"]
+  },
+  {
+    "name": "Ella Davis",
+    "email": "ella.davis@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/5.jpg",
+    "phone": 9876543214,
+    "password": "hashed_pw_5",
+    "gender": "FEMALE",
+    "age": 31,
+    "intrests": ["Photography", "Dancing", "Cooking"]
+  },
+  {
+    "name": "Frank Miller",
+    "email": "frank.miller@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/6.jpg",
+    "phone": 9876543215,
+    "password": "hashed_pw_6",
+    "gender": "MALE",
+    "age": 37,
+    "intrests": ["Fishing", "Traveling", "Reading"]
+  },
+  {
+    "name": "Grace Wilson",
+    "email": "grace.wilson@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/7.jpg",
+    "phone": 9876543216,
+    "password": "hashed_pw_7",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Writing", "Gardening", "Music"]
+  },
+  {
+    "name": "Henry Moore",
+    "email": "henry.moore@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/8.jpg",
+    "phone": 9876543217,
+    "password": "hashed_pw_8",
+    "gender": "MALE",
+    "age": 40,
+    "intrests": ["Running", "Photography", "Cooking"]
+  },
+  {
+    "name": "Isabella Taylor",
+    "email": "isabella.taylor@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/9.jpg",
+    "phone": 9876543218,
+    "password": "hashed_pw_9",
+    "gender": "FEMALE",
+    "age": 24,
+    "intrests": ["Traveling", "Yoga", "Reading"]
+  },
+  {
+    "name": "Jack Anderson",
+    "email": "jack.anderson@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/10.jpg",
+    "phone": 9876543219,
+    "password": "hashed_pw_10",
+    "gender": "MALE",
+    "age": 34,
+    "intrests": ["Music", "Gaming", "Fitness"]
+  },
+  {
+    "name": "Katherine Thomas",
+    "email": "katherine.thomas@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/11.jpg",
+    "phone": 9876543220,
+    "password": "hashed_pw_11",
+    "gender": "FEMALE",
+    "age": 27,
+    "intrests": ["Cooking", "Photography", "Cycling"]
+  },
+  {
+    "name": "Liam Jackson",
+    "email": "liam.jackson@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/12.jpg",
+    "phone": 9876543221,
+    "password": "hashed_pw_12",
+    "gender": "MALE",
+    "age": 38,
+    "intrests": ["Golf", "Fishing", "Traveling"]
+  },
+  {
+    "name": "Mia White",
+    "email": "mia.white@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/13.jpg",
+    "phone": 9876543222,
+    "password": "hashed_pw_13",
+    "gender": "FEMALE",
+    "age": 30,
+    "intrests": ["Hiking", "Reading", "Painting"]
+  },
+  {
+    "name": "Noah Harris",
+    "email": "noah.harris@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/14.jpg",
+    "phone": 9876543223,
+    "password": "hashed_pw_14",
+    "gender": "MALE",
+    "age": 33,
+    "intrests": ["Technology", "Music", "Fitness"]
+  },
+  {
+    "name": "Olivia Martin",
+    "email": "olivia.martin@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/15.jpg",
+    "phone": 9876543224,
+    "password": "hashed_pw_15",
+    "gender": "FEMALE",
+    "age": 25,
+    "intrests": ["Yoga", "Traveling", "Writing"]
+  },
+  {
+    "name": "Paul Thompson",
+    "email": "paul.thompson@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/16.jpg",
+    "phone": 9876543225,
+    "password": "hashed_pw_16",
+    "gender": "MALE",
+    "age": 36,
+    "intrests": ["Cycling", "Fishing", "Gaming"]
+  },
+  {
+    "name": "Quinn Garcia",
+    "email": "quinn.garcia@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/17.jpg",
+    "phone": 9876543226,
+    "password": "hashed_pw_17",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Cooking", "Traveling", "Photography"]
+  },
+  {
+    "name": "Ryan Martinez",
+    "email": "ryan.martinez@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/18.jpg",
+    "phone": 9876543227,
+    "password": "hashed_pw_18",
+    "gender": "MALE",
+    "age": 41,
+    "intrests": ["Golf", "Reading", "Fitness"]
+  },
+  {
+    "name": "Sophia Robinson",
+    "email": "sophia.robinson@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/19.jpg",
+    "phone": 9876543228,
+    "password": "hashed_pw_19",
+    "gender": "FEMALE",
+    "age": 32,
+    "intrests": ["Painting", "Yoga", "Music"]
+  },
+  {
+    "name": "Thomas Clark",
+    "email": "thomas.clark@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/20.jpg",
+    "phone": 9876543229,
+    "password": "hashed_pw_20",
+    "gender": "MALE",
+    "age": 39,
+    "intrests": ["Photography", "Cooking", "Gardening"]
+  },
+  
+  {
+    "name": "Uma Lewis",
+    "email": "uma.lewis@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/21.jpg",
+    "phone": 9876543230,
+    "password": "hashed_pw_21",
+    "gender": "FEMALE",
+    "age": 27,
+    "intrests": ["Writing", "Cooking", "Cycling"]
+  },
+  {
+    "name": "Victor Young",
+    "email": "victor.young@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/22.jpg",
+    "phone": 9876543231,
+    "password": "hashed_pw_22",
+    "gender": "MALE",
+    "age": 43,
+    "intrests": ["Golf", "Reading", "Music"]
+  },
+  {
+    "name": "Wendy Allen",
+    "email": "wendy.allen@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/23.jpg",
+    "phone": 9876543232,
+    "password": "hashed_pw_23",
+    "gender": "FEMALE",
+    "age": 31,
+    "intrests": ["Yoga", "Photography", "Gardening"]
+  },
+  {
+    "name": "Xavier King",
+    "email": "xavier.king@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/24.jpg",
+    "phone": 9876543233,
+    "password": "hashed_pw_24",
+    "gender": "MALE",
+    "age": 37,
+    "intrests": ["Fishing", "Gaming", "Traveling"]
+  },
+  {
+    "name": "Yara Scott",
+    "email": "yara.scott@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/25.jpg",
+    "phone": 9876543234,
+    "password": "hashed_pw_25",
+    "gender": "FEMALE",
+    "age": 26,
+    "intrests": ["Dancing", "Writing", "Cooking"]
+  },
+  {
+    "name": "Zachary Adams",
+    "email": "zachary.adams@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/26.jpg",
+    "phone": 9876543235,
+    "password": "hashed_pw_26",
+    "gender": "MALE",
+    "age": 34,
+    "intrests": ["Technology", "Running", "Music"]
+  },
+  {
+    "name": "Amber Baker",
+    "email": "amber.baker@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/27.jpg",
+    "phone": 9876543236,
+    "password": "hashed_pw_27",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Reading", "Yoga", "Traveling"]
+  },
+  {
+    "name": "Brian Carter",
+    "email": "brian.carter@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/28.jpg",
+    "phone": 9876543237,
+    "password": "hashed_pw_28",
+    "gender": "MALE",
+    "age": 39,
+    "intrests": ["Photography", "Gardening", "Fishing"]
+  },
+  {
+    "name": "Chloe Evans",
+    "email": "chloe.evans@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/29.jpg",
+    "phone": 9876543238,
+    "password": "hashed_pw_29",
+    "gender": "FEMALE",
+    "age": 24,
+    "intrests": ["Cooking", "Painting", "Cycling"]
+  },
+  {
+    "name": "Dylan Foster",
+    "email": "dylan.foster@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/30.jpg",
+    "phone": 9876543239,
+    "password": "hashed_pw_30",
+    "gender": "MALE",
+    "age": 35,
+    "intrests": ["Gaming", "Running", "Music"]
+  },
+  {
+    "name": "Eva Gray",
+    "email": "eva.gray@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/31.jpg",
+    "phone": 9876543240,
+    "password": "hashed_pw_31",
+    "gender": "FEMALE",
+    "age": 30,
+    "intrests": ["Yoga", "Gardening", "Reading"]
+  },
+  {
+    "name": "Finn Hill",
+    "email": "finn.hill@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/32.jpg",
+    "phone": 9876543241,
+    "password": "hashed_pw_32",
+    "gender": "MALE",
+    "age": 40,
+    "intrests": ["Photography", "Fishing", "Golf"]
+  },
+  {
+    "name": "Gabriella Hughes",
+    "email": "gabriella.hughes@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/33.jpg",
+    "phone": 9876543242,
+    "password": "hashed_pw_33",
+    "gender": "FEMALE",
+    "age": 28,
+    "intrests": ["Dancing", "Writing", "Cooking"]
+  },
+  {
+    "name": "Hunter Jenkins",
+    "email": "hunter.jenkins@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/34.jpg",
+    "phone": 9876543243,
+    "password": "hashed_pw_34",
+    "gender": "MALE",
+    "age": 36,
+    "intrests": ["Technology", "Golf", "Fitness"]
+  },
+  {
+    "name": "Isla Kelly",
+    "email": "isla.kelly@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/35.jpg",
+    "phone": 9876543244,
+    "password": "hashed_pw_35",
+    "gender": "FEMALE",
+    "age": 25,
+    "intrests": ["Painting", "Reading", "Yoga"]
+  },
+  {
+    "name": "Jason Lee",
+    "email": "jason.lee@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/36.jpg",
+    "phone": 9876543245,
+    "password": "hashed_pw_36",
+    "gender": "MALE",
+    "age": 32,
+    "intrests": ["Running", "Cycling", "Music"]
+  },
+  {
+    "name": "Kayla Morgan",
+    "email": "kayla.morgan@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/37.jpg",
+    "phone": 9876543246,
+    "password": "hashed_pw_37",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Traveling", "Writing", "Cooking"]
+  },
+  {
+    "name": "Logan Nelson",
+    "email": "logan.nelson@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/38.jpg",
+    "phone": 9876543247,
+    "password": "hashed_pw_38",
+    "gender": "MALE",
+    "age": 41,
+    "intrests": ["Gaming", "Photography", "Fishing"]
+  },
+  {
+    "name": "Mila Perez",
+    "email": "mila.perez@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/39.jpg",
+    "phone": 9876543248,
+    "password": "hashed_pw_39",
+    "gender": "FEMALE",
+    "age": 27,
+    "intrests": ["Yoga", "Painting", "Gardening"]
+  },
+  {
+    "name": "Nathan Reed",
+    "email": "nathan.reed@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/40.jpg",
+    "phone": 9876543249,
+    "password": "hashed_pw_40",
+    "gender": "MALE",
+    "age": 38,
+    "intrests": ["Running", "Cycling", "Golf"]
+  },
+ 
+  {
+    "name": "Nora Bennett",
+    "email": "nora.bennett@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/41.jpg",
+    "phone": 9876543250,
+    "password": "hashed_pw_41",
+    "gender": "FEMALE",
+    "age": 26,
+    "intrests": ["Writing", "Cooking", "Yoga"]
+  },
+  {
+    "name": "Owen Rivera",
+    "email": "owen.rivera@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/42.jpg",
+    "phone": 9876543251,
+    "password": "hashed_pw_42",
+    "gender": "MALE",
+    "age": 34,
+    "intrests": ["Cycling", "Gaming", "Golf"]
+  },
+  {
+    "name": "Piper Cox",
+    "email": "piper.cox@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/43.jpg",
+    "phone": 9876543252,
+    "password": "hashed_pw_43",
+    "gender": "FEMALE",
+    "age": 31,
+    "intrests": ["Photography", "Reading", "Dancing"]
+  },
+  {
+    "name": "Quentin Ward",
+    "email": "quentin.ward@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/44.jpg",
+    "phone": 9876543253,
+    "password": "hashed_pw_44",
+    "gender": "MALE",
+    "age": 39,
+    "intrests": ["Technology", "Hiking", "Fishing"]
+  },
+  {
+    "name": "Ruby Peterson",
+    "email": "ruby.peterson@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/45.jpg",
+    "phone": 9876543254,
+    "password": "hashed_pw_45",
+    "gender": "FEMALE",
+    "age": 27,
+    "intrests": ["Painting", "Gardening", "Yoga"]
+  },
+  {
+    "name": "Sean Price",
+    "email": "sean.price@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/46.jpg",
+    "phone": 9876543255,
+    "password": "hashed_pw_46",
+    "gender": "MALE",
+    "age": 36,
+    "intrests": ["Music", "Running", "Golf"]
+  },
+  {
+    "name": "Tessa Powell",
+    "email": "tessa.powell@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/47.jpg",
+    "phone": 9876543256,
+    "password": "hashed_pw_47",
+    "gender": "FEMALE",
+    "age": 30,
+    "intrests": ["Yoga", "Photography", "Cooking"]
+  },
+  {
+    "name": "Umar Brooks",
+    "email": "umar.brooks@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/48.jpg",
+    "phone": 9876543257,
+    "password": "hashed_pw_48",
+    "gender": "MALE",
+    "age": 33,
+    "intrests": ["Fishing", "Traveling", "Gaming"]
+  },
+  {
+    "name": "Violet Rogers",
+    "email": "violet.rogers@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/49.jpg",
+    "phone": 9876543258,
+    "password": "hashed_pw_49",
+    "gender": "FEMALE",
+    "age": 24,
+    "intrests": ["Writing", "Dancing", "Cycling"]
+  },
+  {
+    "name": "Wyatt Murphy",
+    "email": "wyatt.murphy@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/50.jpg",
+    "phone": 9876543259,
+    "password": "hashed_pw_50",
+    "gender": "MALE",
+    "age": 40,
+    "intrests": ["Golf", "Photography", "Reading"]
+  },
+  {
+    "name": "Ximena Bell",
+    "email": "ximena.bell@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/51.jpg",
+    "phone": 9876543260,
+    "password": "hashed_pw_51",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Music", "Yoga", "Traveling"]
+  },
+  {
+    "name": "Yusuf Barnes",
+    "email": "yusuf.barnes@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/52.jpg",
+    "phone": 9876543261,
+    "password": "hashed_pw_52",
+    "gender": "MALE",
+    "age": 38,
+    "intrests": ["Technology", "Fitness", "Gaming"]
+  },
+  {
+    "name": "Zoey Ross",
+    "email": "zoey.ross@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/53.jpg",
+    "phone": 9876543262,
+    "password": "hashed_pw_53",
+    "gender": "FEMALE",
+    "age": 26,
+    "intrests": ["Cooking", "Painting", "Running"]
+  },
+  {
+    "name": "Aaron Simmons",
+    "email": "aaron.simmons@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/54.jpg",
+    "phone": 9876543263,
+    "password": "hashed_pw_54",
+    "gender": "MALE",
+    "age": 35,
+    "intrests": ["Music", "Yoga", "Fishing"]
+  },
+  {
+    "name": "Bella West",
+    "email": "bella.west@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/55.jpg",
+    "phone": 9876543264,
+    "password": "hashed_pw_55",
+    "gender": "FEMALE",
+    "age": 28,
+    "intrests": ["Traveling", "Cycling", "Photography"]
+  },
+  {
+    "name": "Caleb Jordan",
+    "email": "caleb.jordan@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/56.jpg",
+    "phone": 9876543265,
+    "password": "hashed_pw_56",
+    "gender": "MALE",
+    "age": 42,
+    "intrests": ["Golf", "Writing", "Technology"]
+  },
+  {
+    "name": "Daisy Cooper",
+    "email": "daisy.cooper@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/57.jpg",
+    "phone": 9876543266,
+    "password": "hashed_pw_57",
+    "gender": "FEMALE",
+    "age": 32,
+    "intrests": ["Gardening", "Cooking", "Music"]
+  },
+  {
+    "name": "Ethan Bailey",
+    "email": "ethan.bailey@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/58.jpg",
+    "phone": 9876543267,
+    "password": "hashed_pw_58",
+    "gender": "MALE",
+    "age": 37,
+    "intrests": ["Fitness", "Gaming", "Cycling"]
+  },
+  {
+    "name": "Faith Long",
+    "email": "faith.long@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/59.jpg",
+    "phone": 9876543268,
+    "password": "hashed_pw_59",
+    "gender": "FEMALE",
+    "age": 25,
+    "intrests": ["Yoga", "Dancing", "Reading"]
+  },
+  {
+    "name": "Gavin Edwards",
+    "email": "gavin.edwards@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/60.jpg",
+    "phone": 9876543269,
+    "password": "hashed_pw_60",
+    "gender": "MALE",
+    "age": 33,
+    "intrests": ["Photography", "Golf", "Running"]
+  },
+ 
+  {
+    "name": "Hannah Fisher",
+    "email": "hannah.fisher@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/61.jpg",
+    "phone": 9876543270,
+    "password": "hashed_pw_61",
+    "gender": "FEMALE",
+    "age": 30,
+    "intrests": ["Music", "Cooking", "Traveling"]
+  },
+  {
+    "name": "Ian Webb",
+    "email": "ian.webb@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/62.jpg",
+    "phone": 9876543271,
+    "password": "hashed_pw_62",
+    "gender": "MALE",
+    "age": 36,
+    "intrests": ["Running", "Technology", "Photography"]
+  },
+  {
+    "name": "Jasmine Ellis",
+    "email": "jasmine.ellis@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/63.jpg",
+    "phone": 9876543272,
+    "password": "hashed_pw_63",
+    "gender": "FEMALE",
+    "age": 27,
+    "intrests": ["Yoga", "Gardening", "Dancing"]
+  },
+  {
+    "name": "Kevin Woods",
+    "email": "kevin.woods@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/64.jpg",
+    "phone": 9876543273,
+    "password": "hashed_pw_64",
+    "gender": "MALE",
+    "age": 41,
+    "intrests": ["Gaming", "Fishing", "Music"]
+  },
+  {
+    "name": "Lily Stone",
+    "email": "lily.stone@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/65.jpg",
+    "phone": 9876543274,
+    "password": "hashed_pw_65",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Painting", "Photography", "Cycling"]
+  },
+  {
+    "name": "Miles Dean",
+    "email": "miles.dean@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/66.jpg",
+    "phone": 9876543275,
+    "password": "hashed_pw_66",
+    "gender": "MALE",
+    "age": 39,
+    "intrests": ["Fitness", "Reading", "Golf"]
+  },
+  {
+    "name": "Natalie Hunt",
+    "email": "natalie.hunt@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/67.jpg",
+    "phone": 9876543276,
+    "password": "hashed_pw_67",
+    "gender": "FEMALE",
+    "age": 31,
+    "intrests": ["Cooking", "Writing", "Yoga"]
+  },
+  {
+    "name": "Oscar Ford",
+    "email": "oscar.ford@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/68.jpg",
+    "phone": 9876543277,
+    "password": "hashed_pw_68",
+    "gender": "MALE",
+    "age": 35,
+    "intrests": ["Photography", "Technology", "Running"]
+  },
+  {
+    "name": "Paige Chapman",
+    "email": "paige.chapman@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/69.jpg",
+    "phone": 9876543278,
+    "password": "hashed_pw_69",
+    "gender": "FEMALE",
+    "age": 28,
+    "intrests": ["Music", "Hiking", "Cycling"]
+  },
+  {
+    "name": "Quincy Lane",
+    "email": "quincy.lane@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/70.jpg",
+    "phone": 9876543279,
+    "password": "hashed_pw_70",
+    "gender": "MALE",
+    "age": 40,
+    "intrests": ["Fishing", "Gaming", "Fitness"]
+  },
+  {
+    "name": "Riley Franklin",
+    "email": "riley.franklin@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/71.jpg",
+    "phone": 9876543280,
+    "password": "hashed_pw_71",
+    "gender": "FEMALE",
+    "age": 26,
+    "intrests": ["Painting", "Photography", "Traveling"]
+  },
+  {
+    "name": "Sam Bishop",
+    "email": "sam.bishop@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/72.jpg",
+    "phone": 9876543281,
+    "password": "hashed_pw_72",
+    "gender": "MALE",
+    "age": 38,
+    "intrests": ["Reading", "Technology", "Golf"]
+  },
+  {
+    "name": "Talia Hawkins",
+    "email": "talia.hawkins@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/73.jpg",
+    "phone": 9876543282,
+    "password": "hashed_pw_73",
+    "gender": "FEMALE",
+    "age": 30,
+    "intrests": ["Gardening", "Cooking", "Yoga"]
+  },
+  {
+    "name": "Ulysses Carr",
+    "email": "ulysses.carr@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/74.jpg",
+    "phone": 9876543283,
+    "password": "hashed_pw_74",
+    "gender": "MALE",
+    "age": 37,
+    "intrests": ["Gaming", "Cycling", "Fitness"]
+  },
+  {
+    "name": "Vanessa Kelley",
+    "email": "vanessa.kelley@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/75.jpg",
+    "phone": 9876543284,
+    "password": "hashed_pw_75",
+    "gender": "FEMALE",
+    "age": 32,
+    "intrests": ["Painting", "Music", "Reading"]
+  },
+  {
+    "name": "Walter Pierce",
+    "email": "walter.pierce@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/76.jpg",
+    "phone": 9876543285,
+    "password": "hashed_pw_76",
+    "gender": "MALE",
+    "age": 42,
+    "intrests": ["Fishing", "Writing", "Golf"]
+  },
+  {
+    "name": "Xenia Dunn",
+    "email": "xenia.dunn@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/77.jpg",
+    "phone": 9876543286,
+    "password": "hashed_pw_77",
+    "gender": "FEMALE",
+    "age": 24,
+    "intrests": ["Photography", "Cooking", "Cycling"]
+  },
+  {
+    "name": "Yohan Sims",
+    "email": "yohan.sims@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/78.jpg",
+    "phone": 9876543287,
+    "password": "hashed_pw_78",
+    "gender": "MALE",
+    "age": 34,
+    "intrests": ["Fitness", "Gardening", "Reading"]
+  },
+  {
+    "name": "Zara Foster",
+    "email": "zara.foster@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/79.jpg",
+    "phone": 9876543288,
+    "password": "hashed_pw_79",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Music", "Yoga", "Writing"]
+  },
+  {
+    "name": "Abel Marsh",
+    "email": "abel.marsh@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/80.jpg",
+    "phone": 9876543289,
+    "password": "hashed_pw_80",
+    "gender": "MALE",
+    "age": 36,
+    "intrests": ["Gaming", "Traveling", "Technology"]
+  },
+  
+  {
+    "name": "Autumn Schwartz",
+    "email": "autumn.schwartz@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/81.jpg",
+    "phone": 9876543290,
+    "password": "hashed_pw_81",
+    "gender": "FEMALE",
+    "age": 28,
+    "intrests": ["Photography", "Yoga", "Cooking"]
+  },
+  {
+    "name": "Blake Griffith",
+    "email": "blake.griffith@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/82.jpg",
+    "phone": 9876543291,
+    "password": "hashed_pw_82",
+    "gender": "MALE",
+    "age": 39,
+    "intrests": ["Golf", "Fitness", "Music"]
+  },
+  {
+    "name": "Camila Brewer",
+    "email": "camila.brewer@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/83.jpg",
+    "phone": 9876543292,
+    "password": "hashed_pw_83",
+    "gender": "FEMALE",
+    "age": 31,
+    "intrests": ["Reading", "Painting", "Yoga"]
+  },
+  {
+    "name": "Damian Walsh",
+    "email": "damian.walsh@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/84.jpg",
+    "phone": 9876543293,
+    "password": "hashed_pw_84",
+    "gender": "MALE",
+    "age": 37,
+    "intrests": ["Fishing", "Gaming", "Cycling"]
+  },
+  {
+    "name": "Eliza Parsons",
+    "email": "eliza.parsons@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/85.jpg",
+    "phone": 9876543294,
+    "password": "hashed_pw_85",
+    "gender": "FEMALE",
+    "age": 26,
+    "intrests": ["Cooking", "Photography", "Traveling"]
+  },
+  {
+    "name": "Felix Hammond",
+    "email": "felix.hammond@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/86.jpg",
+    "phone": 9876543295,
+    "password": "hashed_pw_86",
+    "gender": "MALE",
+    "age": 41,
+    "intrests": ["Gardening", "Technology", "Running"]
+  },
+  {
+    "name": "Gemma Barker",
+    "email": "gemma.barker@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/87.jpg",
+    "phone": 9876543296,
+    "password": "hashed_pw_87",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Painting", "Music", "Yoga"]
+  },
+  {
+    "name": "Hector Pope",
+    "email": "hector.pope@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/88.jpg",
+    "phone": 9876543297,
+    "password": "hashed_pw_88",
+    "gender": "MALE",
+    "age": 36,
+    "intrests": ["Golf", "Photography", "Fitness"]
+  },
+  {
+    "name": "Ivy Hodges",
+    "email": "ivy.hodges@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/89.jpg",
+    "phone": 9876543298,
+    "password": "hashed_pw_89",
+    "gender": "FEMALE",
+    "age": 30,
+    "intrests": ["Cycling", "Gardening", "Writing"]
+  },
+  {
+    "name": "Jonas Ball",
+    "email": "jonas.ball@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/90.jpg",
+    "phone": 9876543299,
+    "password": "hashed_pw_90",
+    "gender": "MALE",
+    "age": 35,
+    "intrests": ["Fishing", "Gaming", "Cooking"]
+  },
+  {
+    "name": "Kara McDaniel",
+    "email": "kara.mcdaniel@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/91.jpg",
+    "phone": 9876543300,
+    "password": "hashed_pw_91",
+    "gender": "FEMALE",
+    "age": 27,
+    "intrests": ["Yoga", "Traveling", "Photography"]
+  },
+  {
+    "name": "Leo Vance",
+    "email": "leo.vance@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/92.jpg",
+    "phone": 9876543301,
+    "password": "hashed_pw_92",
+    "gender": "MALE",
+    "age": 42,
+    "intrests": ["Fitness", "Golf", "Technology"]
+  },
+  {
+    "name": "Maya Nixon",
+    "email": "maya.nixon@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/93.jpg",
+    "phone": 9876543302,
+    "password": "hashed_pw_93",
+    "gender": "FEMALE",
+    "age": 28,
+    "intrests": ["Music", "Painting", "Running"]
+  },
+  {
+    "name": "Noel Chandler",
+    "email": "noel.chandler@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/94.jpg",
+    "phone": 9876543303,
+    "password": "hashed_pw_94",
+    "gender": "MALE",
+    "age": 38,
+    "intrests": ["Gaming", "Photography", "Cycling"]
+  },
+  {
+    "name": "Opal Bridges",
+    "email": "opal.bridges@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/95.jpg",
+    "phone": 9876543304,
+    "password": "hashed_pw_95",
+    "gender": "FEMALE",
+    "age": 25,
+    "intrests": ["Gardening", "Yoga", "Traveling"]
+  },
+  {
+    "name": "Preston Horn",
+    "email": "preston.horn@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/96.jpg",
+    "phone": 9876543305,
+    "password": "hashed_pw_96",
+    "gender": "MALE",
+    "age": 40,
+    "intrests": ["Cooking", "Fitness", "Golf"]
+  },
+  {
+    "name": "Quinn Beck",
+    "email": "quinn.beck@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/97.jpg",
+    "phone": 9876543306,
+    "password": "hashed_pw_97",
+    "gender": "FEMALE",
+    "age": 29,
+    "intrests": ["Writing", "Cycling", "Photography"]
+  },
+  {
+    "name": "Reid Pruitt",
+    "email": "reid.pruitt@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/98.jpg",
+    "phone": 9876543307,
+    "password": "hashed_pw_98",
+    "gender": "MALE",
+    "age": 34,
+    "intrests": ["Music", "Gaming", "Traveling"]
+  },
+  {
+    "name": "Sienna Hayden",
+    "email": "sienna.hayden@example.com",
+    "pic": "https://randomuser.me/api/portraits/women/99.jpg",
+    "phone": 9876543308,
+    "password": "hashed_pw_99",
+    "gender": "FEMALE",
+    "age": 26,
+    "intrests": ["Yoga", "Cooking", "Painting"]
+  },
+  {
+    "name": "Tristan Barry",
+    "email": "tristan.barry@example.com",
+    "pic": "https://randomuser.me/api/portraits/men/100.jpg",
+    "phone": 9876543309,
+    "password": "hashed_pw_100",
+    "gender": "MALE",
+    "age": 39,
+    "intrests": ["Golf", "Fishing", "Technology"]
+  }
+]
