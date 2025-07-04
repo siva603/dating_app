@@ -6,24 +6,21 @@ WORKDIR /app
 COPY pom.xml mvnw .mvn/ ./
 COPY src ./src
 
-# Ensure the wrapper is executable
-RUN chmod +x 
+# Make Maven wrapper executable
+RUN chmod +x mvnw
 
-
-
-
-# Build without running tests
+# Build the project
 RUN ./mvnw clean package -DskipTests
 
 # --- Runtime stage ---
 FROM eclipse-temurin:17-jre-alpine
 WORKDIR /app
 
-# Copy the built JAR from the build stage
+# Copy built jar from build stage
 COPY --from=build /app/target/*.jar app.jar
 
-# Expose the port your app listens on
+# Expose app port
 EXPOSE 8080
 
-# Set the command to start your app
+# Run the jar
 ENTRYPOINT ["java", "-jar", "/app/app.jar"]
